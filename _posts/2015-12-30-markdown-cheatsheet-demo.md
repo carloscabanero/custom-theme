@@ -57,22 +57,15 @@ Let's say you have text that you want to refer with a footnote, you can do that 
 
 ## Code Blocks
 
-
-{% highlight javascript %}
-
+```javascript
 var s = "JavaScript syntax highlighting";
 alert(s);
+```
 
-{% endhighlight %}
-
-
-{% highlight python %}
-
+```python
 s = "Python syntax highlighting"
 print s
-
-{% endhighlight %}
-
+```
 
 ```
 No language indicated, so no syntax highlighting.
