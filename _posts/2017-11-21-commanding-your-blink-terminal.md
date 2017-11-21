@@ -6,7 +6,7 @@ description: "Commanding Your Blink Terminal"
 keywords: "blink, terminal, guide"
 ---
 
-## Overview
+# Overview
 
 This guide will explain the various commands available to you inside Blink.
 
@@ -18,11 +18,11 @@ If you type help in the Blink terminal you’ll see the following:
 
 ![]({{ site.baseurl }}/assets/images/posts/2017/commanding-your-blink-terminal/image4.jpg)
 
-### Config
+## Config
 
 If you type `config`, you’ll be presented with the configuration screen.  From here you can adjust the application’s settings.
 
-### SSH
+## SSH
 
 The ssh command will allow you to start a secure remote shell to another device.  The parameters to this command are as follows:
 
